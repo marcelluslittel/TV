@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 group-title="Español",DAZN F1 FHDC HEVC
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=587368&extension=ts&play_token=AMwxYD2Vge
+#EXTINF:-1 group-title="Español",DAZN F1 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=587361&extension=ts&play_token=4Pk6eafi5F
+#EXTINF:-1 group-title="Español",DAZN SD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=587360&extension=ts&play_token=V0nqmmLNlq
+#EXTINF:-1 group-title="Español",DAZN F1 RAW
+http://upgrade.ugoiptv.com:80/play/live.php?mac=00:1A:79:84:75:57&stream=2068325&extension=ts&play_token=eJ856kUICz
+#EXTINF:-1 group-title="Español",DAZN F1 SD 2
+http://upgrade.ugoiptv.com:80/play/live.php?mac=00:1A:79:84:75:57&stream=1547253&extension=ts&play_token=N3lUroARnO
+#EXTINF:-1 group-title="Español",f1  DAZN
+http://line.linktotv.eu:80/play/live.php?mac=00:1A:79:F1:B0:FD&stream=2068325&extension=ts&play_token=k92nLHzD0B
+#EXTINF:-1 group-title="Español",DAZN SD
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=1547253&extension=ts&play_token=8i5FQvouZ5
+#EXTINF:-1 group-title="Español",dazn f1 fhd
+http://astott21.xyz:80/live/XbknUJShHI/is72nB1nio/1124014.ts
+#EXTINF:-1 group-title="Español",DAZN F1 SD
+http://astott21.xyz:80/live/XbknUJShHI/is72nB1nio/216711.ts
+#EXTINF:-1 group-title="Español",DAZN FORMULA 1 SD
+http://astott21.xyz:80/live/XbknUJShHI/is72nB1nio/591077.ts
+#EXTINF:-1 group-title="Español",DAZN F1
+http://varnishrcdn.com:80/live/hameedha2/XRewmb2XTY/255667.ts
+#EXTINF:-1 group-title="Español",M DAZN F1
+http://varnishrcdn.com:80/live/hameedha2/XRewmb2XTY/247927.ts
+#EXTINF:-1 group-title="Español",F1
+http://ocsunpic.duckdns.org:8080/live/Bulent00836turanpaket/e6cNRuMr/456705.ts
+#EXTINF:-1 group-title="Español",F1 348
+http://cf.xoxpl8k.me:80/play/live.php?mac=00:1A:79:00:11:8B&stream=1577195&extension=ts&play_token=OyMgGdOWqL
+#EXTINF:-1 group-title="Español",GO DAZN
+http://cf.xoxpl8k.me:80/play/live.php?mac=00:1A:79:00:11:8B&stream=1677877&extension=ts&play_token=Mc35eWUJzz
+#EXTINF:-1 group-title="Español",F1 SD
+http://cf.xoxpl8k.me:80/play/live.php?mac=00:1A:79:00:11:8B&stream=839961&extension=ts&play_token=QYcip7DAlU
+#EXTINF:-1 group-title="Español",F1 FHD VIP
+http://iiilllaaiiiiiiiia.cdnip.online:8080/C2RrKFwadV/J9MA5vW2mb/13960?play_token=QqIVVnc3i4
+#EXTINF:-1 group-title="Español",DAZN SD
+http://iiilllaaiiiiiiiia.cdnip.online:8080/C2RrKFwadV/J9MA5vW2mb/104473?play_token=NoljFb6abp
