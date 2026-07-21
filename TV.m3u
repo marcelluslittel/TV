@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="TUDN USA",TDNUSA
+#EXTINF:-1 group-title="-" group-title="TUDN USA", TUDN USA 1
+http://181.78.106.127:9000/play/ca036/index.m3u8
+#EXTINF:-1 group-title="TUDN USA",TDN USA 2
 http://1.iptv11.is:80/W23605T3731L/c2I0JVPSYw/124951
 #EXTINF:-1 group-title="Español",DAZN F1 FHDC HEVC
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=587368&extension=ts&play_token=AMwxYD2Vge
